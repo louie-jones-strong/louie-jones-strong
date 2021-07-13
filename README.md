@@ -2,8 +2,8 @@
 
 ### Contact me:
 
-[<img align="left" alt="Louie Jones-Strong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Louie Jones-Strong | itch.io" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons/icons/itch-dot-io.svg" />][itch.io]
+[<img align="left" alt="Louie Jones-Strong | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico" />][linkedin]
+[<img align="left" alt="Louie Jones-Strong | itch.io" width="22px"  src="https://itch.io/favicon.ico" />][itch.io]
 
 [linkedin]: https://www.linkedin.com/in/louie-jones-strong
 [itch.io]: https://louie-js.itch.io/
