@@ -9,4 +9,4 @@
 [Portfolio]: https://louie-jones-strong.github.io/
 [linkedin]: https://www.linkedin.com/in/louie-jones-strong
 [itch.io]: https://louie-js.itch.io/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/louie_j.s/
