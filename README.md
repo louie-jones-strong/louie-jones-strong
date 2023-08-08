@@ -2,7 +2,10 @@
 
 [<img align="right" alt="Louie Jones-Strong | Portfolio" width="100px"  src="Icons/Portfolio_QR.svg" />][Portfolio]
 
-## Hi there, I'm **Louie Jones-Strong** 👋
+## I'm **Louie Jones-Strong** 👋
+
+
+
 
 ## Checkout my other work:
 
