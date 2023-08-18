@@ -1,8 +1,12 @@
 name: GitHub-Profile-Summary-Cards
 
+
+
 on:
-  schedule: # execute every week = 7 * 24 = 168 hours
-    - cron: "* */168 * * *"
+  schedule:
+  # cron job helper site crontab.guru
+  # execute At 01:00 on Monday every week.
+  - cron: "0 1 * * 1"
   workflow_dispatch:
 
 jobs:
